@@ -14,7 +14,7 @@
 
 	<properties>
 		<jdbi.version>2.78</jdbi.version>
-		<h2.version>1.4.194</h2.version>
+		<h2.version>2.2.220</h2.version>
 	</properties>
 
 	<dependencies>
